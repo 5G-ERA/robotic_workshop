@@ -1,3 +1,6 @@
+| [Previous](../01-kubernetes-cluster-creation/README.md) | [index](../README.md) | [next](../03-creating-worker-nodes/README.md) |
+| :--- | :--: | ---: |
+
 <img src="02-vpc-create-00.png"/>
 <img src="02-vpc-create-01.png"/>
 <img src="02-vpc-create-02.png"/>
@@ -15,3 +18,6 @@
 <img src="02-vpc-create-14.png"/>
 <img src="02-vpc-create-15.png"/>
 <img src="02-vpc-create-16.png"/>
+
+| [Previous](../01-kubernetes-cluster-creation/README.md) | [index](../README.md) | [next](../03-creating-worker-nodes/README.md) |
+| :--- | :--: | ---: |

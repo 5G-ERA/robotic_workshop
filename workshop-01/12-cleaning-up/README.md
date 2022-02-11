@@ -1,3 +1,6 @@
+| [Previous](../10-docker-image-creation/README.md) | [index](../README.md) | next |
+| :--- | :--: | ---: |
+
 <img src="12-cleanup-00.png"/>
 <img src="12-cleanup-01.png"/>
 <img src="12-cleanup-02.png"/>
@@ -12,3 +15,6 @@
 <img src="12-cleanup-11.png"/>
 <img src="12-cleanup-12.png"/>
 <img src="12-cleanup-13.png"/>
+
+| [Previous](../10-docker-image-creation/README.md) | [index](../README.md) | next |
+| :--- | :--: | ---: |
