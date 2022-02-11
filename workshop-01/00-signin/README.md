@@ -1,4 +1,4 @@
-# Chapter 0 Signin
+# Signin
 
 <img src="00-signin-00.png" />
 <img src="00-signin-01.png" />
