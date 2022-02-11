@@ -1,7 +1,11 @@
 # Signin
-<table align="center"></table>
+<table align="center">
+
 | previous | [index](../README.md) | [next](../01-kubernetes-cluster-creation/README.md) |
 | :--- | :--: | ---: |
+
+</table>
+
 
 <img src="00-signin-00.png" />
 <img src="00-signin-01.png" />
