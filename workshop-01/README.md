@@ -1,6 +1,17 @@
-# Robotic simulation workshop
+# Robotic cloud simulation workshop
 
 ## Objectives
+
+Provide to all participants the knowledge for deploy their a robot simulation in cloud in order to allow to develop the required software for the 5G-ERA project
+
+- Learn basic usage of the cloud provider interface
+- Learn how to create a basic kubernetes cluster
+- Learn basic use of kubernetes interface
+- Learn how to deploy a simulation of robot in kubernetes
+- Learn how to interact with the simulation using different interfaces
+- Create a custom robotic package
+- Deploy this package over the kubernetes cluster
+
 
 ## Table of content
 
