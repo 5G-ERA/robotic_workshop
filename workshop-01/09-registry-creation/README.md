@@ -12,5 +12,7 @@
 <img src="09-registry-08.png"/>
 <img src="09-registry-09.png"/>
 <img src="09-registry-10.png"/>
+
+[commands](09-registry-cmd.txt)
 | [Previous](../08-vpc-aws-cli-install/README.md) | [index](../README.md) | [next](../10-docker-image-creation/README.md) |
 | :--- | :--: | ---: |
