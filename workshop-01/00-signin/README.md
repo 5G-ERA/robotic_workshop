@@ -1,8 +1,8 @@
 # Signin
-
-| <div style="width:100%">property</div> previous | [index](../README.md) | [next](../01-kubernetes-cluster-creation/README.md) |
+<div style="width:100%">
+| previous | [index](../README.md) | [next](../01-kubernetes-cluster-creation/README.md) |
 | :--- | :--: | ---: |
-
+</div>
 <img src="00-signin-00.png" />
 <img src="00-signin-01.png" />
 <img src="00-signin-02.png" />
