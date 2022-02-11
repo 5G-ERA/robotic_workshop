@@ -1,0 +1,10 @@
+git clone https://github.com/5G-ERA/ros_docker_image_example.git
+cd "ros_docker_image_example"
+cd k8s
+kubectl apply -f talker.yaml
+kubectl apply -f listener.yaml
+
+kubectl get pods
+
+kubectl logs -l app=talker-pod
+kubectl logs -l app=listener-pod
