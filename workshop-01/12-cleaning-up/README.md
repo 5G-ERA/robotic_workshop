@@ -1,3 +1,4 @@
+# Cleaning up
 | [Previous](../10-docker-image-creation/README.md) | [index](../README.md) | next |
 | :--- | :--: | ---: |
 

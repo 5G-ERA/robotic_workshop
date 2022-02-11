@@ -1,4 +1,4 @@
-# Signin
+# Amazon account sign-in
 
 | previous | [index](../README.md) | [next](../01-kubernetes-cluster-creation/README.md) |
 | :--- | :--: | ---: |
