@@ -1,10 +1,11 @@
-cd "ros-docker-image-example"
+git clone https://github.com/5G-ERA/ros_docker_image_example.git
+cd "ros_docker_image_example"
 aws_reg="394603622351.dkr.ecr.eu-central-1.amazonaws.com"
 registry="robotic-workshop-01"
 image="${registry}"
 version="ros-example-test"
 image_name="${image}:${version}"
 full_tag="${aws_reg}/${image_name}"
-docker build -t "${image_name}:${version}" .
+docker build -t "${image_name}" .
 docker tag "${image_name}" "${full_tag}"
 docker push "${full_tag}"
