@@ -3,8 +3,8 @@
 | :--- | :--: | ---: |
 
 <img src="02-vpc-create-00.png"/>
-<img src="02-vpc-create-01.png"/>
 <img src="02-vpc-create-02.png"/>
+<img src="02-vpc-create-01.png"/>
 <img src="02-vpc-create-03.png"/>
 <img src="02-vpc-create-04.png"/>
 <img src="02-vpc-create-05.png"/>

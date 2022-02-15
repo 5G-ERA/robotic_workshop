@@ -24,7 +24,7 @@ Provide to all participants the knowledge for deploy their a robot simulation in
 6. [VPC docker engine install](06-vpc-docker-install/README.md)
 7. [VPC aws-cli install](07-vpc-aws-cli-install/README.md)
 8. [Elastic Container Registry (ECR) creation](08-registry-creation/README.md)
-9. [ROS node example image build](9-docker-image-creation/README.md)
+9. [ROS node example image build](09-docker-image-creation/README.md)
 10. [ROS node example kubernetes deployment](10-image-deployment/README.md)
 11. [Robot simulation kubernetes deployment](11-deploy-robot-simulation/README.md)
 12. [Cleaning up](12-cleaning-up/README.md)
