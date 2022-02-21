@@ -16,7 +16,7 @@ Provide to all participants the knowledge for deploy their a robot simulation in
 ## Table of content
 
 0. [Amazon account sign-in](00-signin/README.md)
-1. [Elastic Kubernetes Service (ECS) cluster creation](01-kubernetes-cluster-creation/README.md)
+1. [Elastic Kubernetes Service (EKS) cluster creation](01-kubernetes-cluster-creation/README.md)
 2. [Docker builder Virtual Private Compute (VPC) machine creation](02-vpc-creation/README.md)
 3. [Kubernetes worker nodes creation](03-creating-worker-nodes/README.md)
 4. [kubectl install on AWS Cloud Console](04-kubectl-install/README.md)
