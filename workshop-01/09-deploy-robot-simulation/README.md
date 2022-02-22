@@ -24,6 +24,10 @@ Wait until everything should be on state "RUNNING" and READY
 
 <img src="09-deploy-robot-00.png"/>
 
+## Simulation diagram
+
+<img src="09-deploy-robot-01.png"/>
+
 ## Obtaining the URL
 
 ### Gazebo
@@ -50,16 +54,16 @@ Paste the output on your browser new tab or window:
 
 ## Gazebo client
 
-<img src="09-deploy-robot-01.png"/>
 <img src="09-deploy-robot-02.png"/>
 <img src="09-deploy-robot-03.png"/>
+<img src="09-deploy-robot-04.png"/>
 
 ## Rviz
 
-<img src="09-deploy-robot-04.png"/>
 <img src="09-deploy-robot-05.png"/>
 <img src="09-deploy-robot-06.png"/>
 <img src="09-deploy-robot-07.png"/>
+<img src="09-deploy-robot-08.png"/>
 
 | [Previous](../08-registry-creation/README.md) | [index](../README.md) | [next](../10-docker-image-creation/README.md) |
 | :--- | :--: | ---: |
