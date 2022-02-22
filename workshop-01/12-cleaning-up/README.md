@@ -1,5 +1,5 @@
 # Cleaning up
-| [Previous](../11-deploy-robot-simulation/README.md) | [index](../README.md) | next |
+| [Previous](../11-image-deployment/README.md) | [index](../README.md) | next |
 | :--- | :--: | ---: |
 
 <img src="12-cleanup-00.png"/>
@@ -17,5 +17,5 @@
 <img src="12-cleanup-12.png"/>
 <img src="12-cleanup-13.png"/>
 
-| [Previous](../11-deploy-robot-simulation/README.md) | [index](../README.md) | next |
+| [Previous](../11-image-deployment/README.md) | [index](../README.md) | next |
 | :--- | :--: | ---: |
