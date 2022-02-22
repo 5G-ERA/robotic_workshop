@@ -1,5 +1,5 @@
 # ROS node example kubernetes deployment
-| [Previous](../10-deploy-robot-simulation/README.md) | [index](../README.md) | [next](../12-cleaning-up/README.md) |
+| [Previous](../10-docker-image-creation/README.md) | [index](../README.md) | [next](../12-cleaning-up/README.md) |
 | :--- | :--: | ---: |
 
 [commands](11-deploy-image-cmd.txt)
@@ -34,5 +34,5 @@ kubectl logs -l app=listener-pod
 
 <img src="11-deploy-image-02.png"/>
 
-| [Previous](../10-deploy-robot-simulation/README.md) | [index](../README.md) | [next](../12-cleaning-up/README.md) |
+| [Previous](../10-docker-image-creation/README.md) | [index](../README.md) | [next](../12-cleaning-up/README.md) |
 | :--- | :--: | ---: |
