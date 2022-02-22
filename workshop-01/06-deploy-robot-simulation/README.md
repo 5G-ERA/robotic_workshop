@@ -4,7 +4,11 @@
 
 [commands](06-deploy-robot-cmd.txt)
 
-## deploy of the simulation
+## Simulation diagram
+
+<img src="06-deploy-robot-01.png"/>
+
+## Deploying the simulation
 
 
 ```bash
@@ -23,10 +27,6 @@ kubectl get pods
 Wait until everything should be on state "RUNNING" and READY
 
 <img src="06-deploy-robot-00.png"/>
-
-## Simulation diagram
-
-<img src="06-deploy-robot-01.png"/>
 
 ## Obtaining the URL
 
