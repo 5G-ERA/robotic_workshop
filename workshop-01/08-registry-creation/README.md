@@ -1,5 +1,5 @@
 # Elastic Container Registry (ECR) creation
-| [Previous](../07-vpc-aws-cli-install/README.md) | [index](../README.md) | [next](../09-docker-image-creation/README.md) |
+| [Previous](../07-vpc-aws-cli-install/README.md) | [index](../README.md) | [next](../09-deploy-robot-simulation/README.md) |
 | :--- | :--: | ---: |
 
 [commands](08-registry-cmd.txt)
@@ -25,5 +25,5 @@ docker login --username AWS --password-stdin 394603622351.dkr.ecr.eu-central-1.a
 
 <img src="08-registry-10.png"/>
 
-| [Previous](../07-vpc-aws-cli-install/README.md) | [index](../README.md) | [next](../09-docker-image-creation/README.md) |
+| [Previous](../07-vpc-aws-cli-install/README.md) | [index](../README.md) | [next](../09-deploy-robot-simulation/README.md) |
 | :--- | :--: | ---: |
