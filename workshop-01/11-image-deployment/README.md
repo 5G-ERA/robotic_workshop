@@ -1,8 +1,8 @@
 # ROS node example kubernetes deployment
-| [Previous](../09-docker-image-creation/README.md) | [index](../README.md) | [next](../11-deploy-robot-simulation/README.md) |
+| [Previous](../10-deploy-robot-simulation/README.md) | [index](../README.md) | [next](../12-cleaning-up/README.md) |
 | :--- | :--: | ---: |
 
-[commands](10-deploy-image-cmd.txt)
+[commands](11-deploy-image-cmd.txt)
 
 ## Applying the manifest files
 
@@ -15,7 +15,7 @@ kubectl apply -f talker.yaml
 kubectl apply -f listener.yaml
 ```
 
-<img src="10-deploy-image-00.png"/>
+<img src="11-deploy-image-00.png"/>
 
 ## Checking that everything is running
 
@@ -23,7 +23,7 @@ kubectl apply -f listener.yaml
 kubectl get pods
 ```
 
-<img src="10-deploy-image-01.png"/>
+<img src="11-deploy-image-01.png"/>
 
 ## Checking the interaction
 
@@ -32,7 +32,7 @@ kubectl logs -l app=talker-pod
 kubectl logs -l app=listener-pod
 ```
 
-<img src="10-deploy-image-02.png"/>
+<img src="11-deploy-image-02.png"/>
 
-| [Previous](../09-docker-image-creation/README.md) | [index](../README.md) | [next](../11-deploy-robot-simulation/README.md) |
+| [Previous](../10-deploy-robot-simulation/README.md) | [index](../README.md) | [next](../12-cleaning-up/README.md) |
 | :--- | :--: | ---: |

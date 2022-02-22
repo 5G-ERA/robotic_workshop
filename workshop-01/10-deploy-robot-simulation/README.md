@@ -1,8 +1,8 @@
 # Robot simulation kubernetes deployment
-| [Previous](../10-image-deployment/README.md) | [index](../README.md) | [next](../12-cleaning-up/README.md) |
+| [Previous](../09-docker-image-creation/README.md) | [index](../README.md) | [next](../11-image-deployment/README.md) |
 | :--- | :--: | ---: |
 
-[commands](11-deploy-robot-cmd.txt)
+[commands](10-deploy-robot-cmd.txt)
 
 ## deploy of the simulation
 
@@ -22,7 +22,7 @@ kubectl get pods
 
 Wait until everything should be on state "RUNNING" and READY
 
-<img src="11-deploy-robot-00.png"/>
+<img src="10-deploy-robot-00.png"/>
 
 ## Obtaining the URL
 
@@ -50,16 +50,16 @@ Paste the output on your browser new tab or window:
 
 ## Gazebo client
 
-<img src="11-deploy-robot-01.png"/>
-<img src="11-deploy-robot-02.png"/>
-<img src="11-deploy-robot-03.png"/>
+<img src="10-deploy-robot-01.png"/>
+<img src="10-deploy-robot-02.png"/>
+<img src="10-deploy-robot-03.png"/>
 
 ## Rviz
 
-<img src="11-deploy-robot-04.png"/>
-<img src="11-deploy-robot-05.png"/>
-<img src="11-deploy-robot-06.png"/>
-<img src="11-deploy-robot-07.png"/>
+<img src="10-deploy-robot-04.png"/>
+<img src="10-deploy-robot-05.png"/>
+<img src="10-deploy-robot-06.png"/>
+<img src="10-deploy-robot-07.png"/>
 
-| [Previous](../10-image-deployment/README.md) | [index](../README.md) | [next](../12-cleaning-up/README.md) |
+| [Previous](../09-docker-image-creation/README.md) | [index](../README.md) | [next](../11-image-deployment/README.md) |
 | :--- | :--: | ---: |
