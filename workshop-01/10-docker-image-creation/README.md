@@ -1,8 +1,8 @@
 # ROS node example image build
-| [Previous](../08-registry-creation/README.md) | [index](../README.md) | [next](../10-image-deployment/README.md) |
+| [Previous](../09-deploy-robot-simulation/README.md) | [index](../README.md) | [next](../11-image-deployment/README.md) |
 | :--- | :--: | ---: |
 
-[commands](09-docker-image-cmd.txt)
+[commands](10-docker-image-cmd.txt)
 
 ## Getting the dockerfiles
 
@@ -18,7 +18,7 @@ full_tag="${aws_reg}/${image_name}"
 ```
 
 
-<img src="09-docker-image-00.png"/>
+<img src="10-docker-image-00.png"/>
 
 ## Building the image
 
@@ -34,7 +34,7 @@ docker tag "${image_name}" "${full_tag}"
 docker push "${full_tag}"
 ```
 
-<img src="09-docker-image-01.png"/>
+<img src="10-docker-image-01.png"/>
 
-| [Previous](../08-registry-creation/README.md) | [index](../README.md) | [next](../10-image-deployment/README.md) |
+| [Previous](../09-deploy-robot-simulation/README.md) | [index](../README.md) | [next](../11-image-deployment/README.md) |
 | :--- | :--: | ---: |
