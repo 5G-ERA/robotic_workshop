@@ -1,5 +1,5 @@
 # ROS node example image build
-| [Previous](../09-deploy-robot-simulation/README.md) | [index](../README.md) | [next](../11-image-deployment/README.md) |
+| [Previous](../09-registry-creation/README.md) | [index](../README.md) | [next](../11-image-deployment/README.md) |
 | :--- | :--: | ---: |
 
 [commands](10-docker-image-cmd.txt)
@@ -36,5 +36,5 @@ docker push "${full_tag}"
 
 <img src="10-docker-image-01.png"/>
 
-| [Previous](../09-deploy-robot-simulation/README.md) | [index](../README.md) | [next](../11-image-deployment/README.md) |
+| [Previous](../09-registry-creation/README.md) | [index](../README.md) | [next](../11-image-deployment/README.md) |
 | :--- | :--: | ---: |
