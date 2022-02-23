@@ -1,4 +1,4 @@
-# Elastic Kubernetes Service (ECS) cluster creation
+# Elastic Kubernetes Service (EKS) cluster creation
 
 | [Previous](../00-signin/README.md) | [index](../README.md) | [next](../02-vpc-creation/README.md) |
 | :--- | :--: | ---: |
