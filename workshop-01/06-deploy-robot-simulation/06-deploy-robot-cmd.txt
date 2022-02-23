@@ -1,0 +1,11 @@
+git clone https://github.com/5G-ERA/rb1_base_simulation_k8s.git
+cd rb1_base_simulation_k8s
+kubectl apply -f first-time/
+kubectl apply -f pseudo-chart/
+
+kubectl get pods
+
+echo "gazebo client website:"
+echo http://$(kubectl get svc robot-gazebo-client-vnc -o jsonpath="{.status.loadBalancer.ingress[0].hostname}")
+echo "Rviz client website:"
+echo http://$(kubectl get svc robot-rviz-vnc -o jsonpath="{.status.loadBalancer.ingress[0].hostname}")
