@@ -1,3 +1,3 @@
 # Robotic simulation workshop
 
-1. [First workshop](workshop-01/README.md)
+1. [Robotic Cloud simulation on AWS](workshop-01/README.md)
